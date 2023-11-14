@@ -2,6 +2,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Assignment Review
 
-![ScreenShot](public/assignment.png.png)
+![ScreenShot](public/assignment.png)
 
 Screenshot preview of the website
